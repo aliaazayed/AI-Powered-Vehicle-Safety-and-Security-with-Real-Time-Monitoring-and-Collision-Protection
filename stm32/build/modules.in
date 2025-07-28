@@ -1,0 +1,21 @@
+// Select input files that will be compiled 
+// Syntax:
+// parent_dir {
+//  list of files
+// }
+
+// --- MCAL PERIPHERALS  -------------------------------------------------------
+// -----------------------------------------------------------------------------
+
+    stm32f103_startup.c
+    Src/CLCD_program.c
+    Src/DCMotor_prog.c
+    Src/Gpio.c
+    Src/Rcc.c
+    Src/STK_program.c
+    Src/timer.c
+     Src/HULTRA_program.c
+
+// --- HAL PERIPHERALS  --------------------------------------------------------
+// -----------------------------------------------------------------------------
+

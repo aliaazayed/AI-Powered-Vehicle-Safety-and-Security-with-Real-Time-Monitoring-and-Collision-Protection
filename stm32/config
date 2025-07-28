@@ -1,0 +1,18 @@
+Blind spot config :
+ BLR *right*:
+echo:CH_1: A6
+trig: A4
+check led : A12
+---
+ BLR *left*:
+echo:CH_3: B0
+trig:A5
+check led :B15 
+
+---
+
+lcd:
+data : a8,a9,a10,a11
+rs:b3
+re:b4
+en:b5

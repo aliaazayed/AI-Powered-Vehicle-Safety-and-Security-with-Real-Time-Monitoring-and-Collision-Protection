@@ -1,0 +1,6 @@
+# cat_dog.yaml
+path: yolo_data
+train: images/train
+val: images/val
+nc: 2
+names: ['cat', 'dog']
